@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aloha</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_your_description">Enter Your Description</string>
+    <string name="enter_occupation">Enter Occupation</string>
+    <string name="my_image_desc">Your Picture</string>
+    <string name="register">Aloha Dating Registration</string>
+    <string name="open_activity_2">Submit</string>
+    <string name="profile">Profile</string>
+</resources>
